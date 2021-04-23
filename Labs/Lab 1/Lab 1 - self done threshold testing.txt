@@ -1,0 +1,29 @@
+desired intent: vacuum
+	utterance: "clean up over here"
+	highest ranking intent: "turn_on_light"
+	"confidence": 0.2460658699274063
+	outcome - incorrect
+
+desired intent: move_to_trash
+	utterance: "throw the trash away"
+	highest ranking intent: "move_to_trash"
+	"confidence": 0.24695976078510284
+	outcome - correct
+
+desired intent: give
+	utterance: "hand that to me"
+	highest ranking intent: "give"
+	"confidence": 0.6341573596000671
+	outcome - correct
+
+desired intent: turn_on_light
+	utterance: "switch those lights on"
+	highest ranking intent: "turn_on_light"
+	"confidence": 0.3593078553676605
+	outcome - correct
+
+desired intent: turn_off_light
+	utterance: "switch those lights off"
+	highest ranking intent: "turn_on_light"
+	"confidence": 0.2398354411125183
+	outcome - incorrect

@@ -1,0 +1,513 @@
+# example id: MapTask12v2
+g	okay
+g	starting off we are above a caravan park
+> Entailment g is above a caravan park
+> Entailment g is talking with someone
+> Contradiction g isn't talking to someone
+> Contradiction g isn't above a caravan park
+> Neutral giraffe
+> Neutral big giraffe
+f	mmhmm
+g	we are going to go due south straight south and then we're going to g-- turn straight back round and head north past an old mill on the right hand side
+f	due south and then back up again
+g	yeah
+g	south and then straight back up again with an old mill on the right and you're going to pass on the left-hand side of the mill
+f	right okay
+> Entailment they're going back after going south
+> Entailment there's an old mill on the right when going back
+> Contradiction they're going north and not stopping
+> Contradiction they don't have to look for an old mill when coming back
+> Neutral it's sunny out
+> Neutral but I'm inside
+g	okay
+g	and then we're going to turn east
+f	mmhmm
+g	not straight east slightly sort of northeast
+f	s-- slightly northeast
+> Entailment f knows to go slightly northeast
+> Entailment they aren't going perfectly east
+> Contradiction f doesn't know where they're going
+> Contradiction f hasn't spoken with g
+> Neutral i can feel the wind
+> Neutral got the window open
+g	slightly slightly yeah
+g	very slightly
+g	and we're going to continue straight along erm quite a wee dis-- a wee distance erm quite a wee distance right we're going to continue along on that course
+g	and then we're going to turn north again
+f	mmhmm
+g	and immediat-- well a distance below that turning point there's a fenced meadow
+g	but you should be avoiding that by quite a distance
+f	okay
+g	okay so we've turned and we're going up north again
+f	mmhmm
+g	continue straight up north
+f	mmhmm
+> Entailment there are more directions
+> Entailment they go north often
+> Contradiction the previous interaction being the end of the directions
+> Contradiction they cut short of going north for a long time
+> Neutral avocado is probably ripe
+> Neutral goes well with rice
+g	and then we're going to turn to the west on a curvature right sort of
+f	okay
+g	"s" bend and immediately below that bend there is an abandoned cottage
+f	mmhmm
+f	okay
+g	and we're passing above the top of that
+g	we're going to continue in that sort of "s" shape a big wide "s"
+f	mmhmm
+> Entailment there's a cottage
+> Entailment the cottage is abandoned
+> Contradiction there isn't a cottage
+> Contradiction there is a perfectly, unabandoned cottage
+> Neutral cookie cookie
+> Neutral big ahhhhhhh cookie
+g	and on the sort of mmhmm top erm left of that again below it there's a fenced meadow
+g	but you're passing on the top of that
+g	okay
+g	right okay
+f	okay
+> Entailment f said okay
+> Entailment g said right okay
+> Contradiction they don't acknowledge that they're in sync
+> Contradiction there isn't a fenced meadow 
+> Neutral two spoons on the floor
+> Neutral 4 chopstick on table
+g	we've gone from the abandoned cottage right and we're on the sort of "s" shape yeah
+f	right
+g	right
+g	and then at the top of the "s" we're turning north
+f	mmhmm
+g	okay
+g	we're going straight due north
+g	at the top there there's a west lake
+> Entailment there is a west lake at the end of the straight direction
+> Entailment lake's on the west
+> Contradiction the lake's on the south
+> Contradiction there isn't a lake
+> Neutral friend at the library
+> Neutral doing ml
+f	okay
+g	which we're going to pass on the south erm southeast side
+f	mmhmm
+g	and we're going to do that in a curve almost a half "u" shape
+f	half "u" shape to the southeast
+> Entailment going to go in a half "u" shape once they get past the SE side
+> Entailment f knows what g is talking about
+> Contradiction the shape is in an x shape
+> Contradiction the shape is in a big ole y shape
+> Neutral i wanna dye my hair
+> Neutral the building is solid
+g	yeah
+g	yeah the southeast
+f	right okay
+g	and continue up north slightly
+f	mmhmm
+g	but not quite to the tip of that lake
+f	mmhmm
+g	and then we're going to turn down ove-- above a trig point and we're going to turn immediately to your right and straight down at an angle of forty-five
+f	right
+> Entailment angle they have to remember is 45
+> Entailment stop short of the tip of the lake
+> Contradiction there isn't a lake
+> Contradiction stop at the tip of the lake
+> Neutral eye drops
+> Neutral scissors 
+g	okay
+g	and we're going to continue that wee distance down and that the point at the end of that it should be near to the abandoned cottage where we went past miles away but if not just carry on and then continue down in that forty-five degree
+f	mmhmm
+g	and turn round by a monument on the outside of the monument
+f	outside of the monument
+g	yeah
+g	and then a very slight turning up again north sort of northwest
+f	mmhmm
+g	very slight curve sort of very slight "s"-shaped just a slight curve and then going to proceed up north again
+> Entailment have to curve in an s shape at the end
+> Entailment turn at the monument
+> Contradiction turn at the lake
+> Contradiction go in an R shape
+> Neutral cookies
+> Neutral subway
+g	on the right-hand side there's a nuclear test site before right before reaching the top of that northbound
+g	and then you're going to turn back west
+g	and above that there's an east lake
+f	oh right okay
+g	yeah
+g	and that's the finish
+> Entailment there's a nuclear test site
+> Entailment turn west at the site
+> Contradiction there's more instructions 
+> Contradiction the lake is on the west
+> Neutral phone
+> Neutral mouse
+f	mmhmm
+f	slightly different
+
+# example id: KB0_028802_06.40_22
+Alan	They want to know what spoken English is like
+Unknown	<unclear >
+Ida	You can tape me by all means, but they probably won't like my voice
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Er, now what do I want?
+Alan	Erm, oh half a dozen eggs
+Ida	large ones?
+Alan	Yes I think so, or,
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	at least I more often buy medium, I don't really know which one is best
+Ida	Well, er, if you poach an egg, those are too big
+Alan	Mm, no, let me have those then, cos I do sometimes poach an egg
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Yeah, well, they say that they're too large to poach them with, they come over the top, there we are, thank you.
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Er <pause> I want, I want to make a casserole have you got either a neck of lamb or an ox tail or something like that?
+Ida	I've got some ox tail, erm neck of lamb Philip have you got one?
+Philip	Neck of lamb's off
+Alan	Well I'll have an ox tail then <laugh>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	That's one thirty for the whole one, is that too much for you?
+Alan	No I'll use that I think
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	You can freeze it if you don't
+Alan	That's what I do
+Ida	if you don't want it all <pause>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	did I see Robert with you the other day?
+Ida	Was it Robert?
+Alan	He was, er <pause>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Has he got a Volvo? Volvo car?
+Alan	Er, well both Robert and David have got Volvos, so
+Ida	Oh
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	er, if, if it was, if it was the last few days it was probably David
+Ida	Yes, I think it might of been Wednesday
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Er, yes that was David, Robert hasn't, Robert's coming next weekend, but he hasn't been here for a few weeks
+Ida	Yes, I just saw you at the crossroads you see
+Alan	Mm
+Ida	and I was sort of concentrating
+Alan	No
+Ida	so I just
+Alan	that was David that was with me,
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	er, now the next thing is I want something to cook quickly er, er let me have a pound of sausages
+Ida	Right, well we've got different types of seasonings
+Ida	so I don't know which you erm, whether you would like
+Alan	er
+Ida	ordinary pork
+Alan	mm
+Ida	Those have got a leek seasoning, pork and apple, tomato, and herbs
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Goodness what a choice, <laugh>
+Alan	<unclear>
+Ida	if you like something seasoned they're all quite nice
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Yes, er <pause> oh I should think er <pause> let's try the tomato one, I haven't had, I haven't seen sausages with tomato in before
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Well they are, they are very nice, half a pound or just a couple?
+Alan	Er, half a pound will do, no give me a pound, I'll put them in the freezer and
+Ida	Right
+Alan	use them as they come <pause dur=7>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	<unclear>
+Alan	er
+Ida	Nasty morning isn't it
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	and er, one of these chicken fillets I think please
+Ida	Hello
+John	Hello
+Alan	Morning
+John	Morning <pause>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Ninety four pence
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	I think that's about all I can do so far
+Ida	Right, thank you
+Ida	Quite blustery <unclear> down the road is it?
+Alan	Yes
+Ida	three eighty five <pause>
+Ida	do you want them in a carrier bag?
+Alan	No, I'll put them in this, why use up your carrier bags, anyhow this is an easier way to carry
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	It is <pause dur=7>
+Ida	How you should carry your shopping they say don't they because you're not having to use <pause>
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	That's right
+Ida	five, pound coin underneath, ten, lovely
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Alan	Thank you very much
+Ida	Thank you very much
+Alan	Take care
+Ida	I'll do that
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Working the weekend?
+Alan	Well, er only in the evening, but we've got a synod tomorrow so I'll be out all day
+> Entailment 
+> Entailment 
+> Contradiction 
+> Contradiction 
+> Neutral 
+> Neutral 
+Ida	Well, take care
+Alan	right, good bye
+
+# example id: LondonLundS.1.2bv3
+B:	I don't know you're on this .  senate committee of course aren't you .
+A:	m
+B:	- the  . this - - - sort of - well for
+A:	m
+B:	- the combination of subjects - this is not going to come to anything nobody really wants it they think it's ideal in one way but it's m - if it's going to fold up to
+> Entailment the committee is mixed
+> Entailment A is there
+> Contradiction A isn't there
+> Contradiction there is no committee
+> Neutral pencil
+> Neutral box
+A:	m there was a very nice letter in the Observer - on Sunday I don't know whether you . noticed
+B:	I didn't see that . no - - -
+A:	m - - saying that m - - mentioning a number of ways in which . we were now going American - in a way - - in directions - - which . were being reversed in America or where America was trying to go British - in the
+B:	m mhm
+A:	- direction of the . British methods that we are trying to abandon - - m - and one of
+B:	m
+A:	- them is this  - - - (starts reading) in the field of higher education - a similar debate in reverse goes on - in Cornell - - - m - - - young American professors are typically determined to toughen curricula - by increasing the emphasis on individual disciplines . just as their counterparts in this country - are with equal favour promoting broader cross-disciplinary programmes . often inspired by the North American precedent (stops reading) -
+> Entailment A is reading
+> Entailment they are adapting new methods
+> Contradiction B didn't see the ltter
+> Contradiction A didn't read
+> Neutral cup
+> Neutral air
+B:	yes - dh this this is very interesting actually because I'm quite sure ? m that that that that we're wrong . I I'm sure the
+A:	yes
+B:	- Americans were right . over this -  this this Cornell  . business which
+A:	yes
+B:	- was - after all we are specialists .  and we cannot tackle the broad fields
+> Entailment B agrees with A's assertion 
+> Entailment they are out of their scope
+> Contradiction they are fit to tackle the problem
+> Contradiction this isn't Cornell associated 
+> Neutral tree
+> Neutral man
+A:	m . that's right . yes
+B:	- that say . Paul Knott's generation
+A:	no
+B:	- tackled - m . and the generation beyond
+A:	m . no
+B:	- that .  even even more so -
+A:	quite
+B:	and  until we recognize that specialization has arrived -  we we're going to end up nowhere .
+A:	m m . m
+> Entailment they need a specialized person
+> Entailment they have to wait
+> Contradiction they are prepared at the moment
+> Contradiction they don't need someone to come in
+> Neutral curtain
+> Neutral pin
+B:	- and this is the trouble in schools you see I I I'm absolutely convinced that the schools are wrong - - in trying to tackle a sort of general course . after the age of sixteen by the age of sixteen anybody who is going to be an academic should have done their general reading - -  in this day and age
+A:	m
+B:	- that is . it's a sad sort of  -
+A:	m
+B:	- thought but there it is
+A:	m m - -
+B:	but this is the surely your your committee is not going to come to that conclusion - -
+A:	wh what committee are you talking about Arthur
+> Entailment A knows B's opinion on preparedness of academic readings
+> Entailment A agrees with B's statements mostly
+> Contradiction B is easy on students who didn't read
+> Contradiction B doesn't talk much about getting ready for academic life
+> Neutral big treeeeeeeeeeeeeee
+> Neutral big big treeeeeeeeeeeeeeeee
+B:	well you're on this senate committee for sort of . combining different departments 1 to  1 to
+A:	n well no dh that's not got that's not its terms of reference at all you know -
+B:	this is what it amounts to isn't it .
+A:	no - - m - - - w  . we've got to  - - - decide - what the structure of faculty boards and boards of studies . are - - going to be in the future
+B:	is that the actual terms of reference I thought that it was more  you know  if if you if you want to have -
+A:	the committee's not in existence yet
+> Entailment there are boards
+> Entailment boards are already prepared
+> Contradiction boards don't need readjustments
+> Contradiction the committee is in existence
+> Neutral more tree
+> Neutral treee treeeee
+B:	yes . if you want to have philosophy . and ? . mathematics as your your two possible subjects as an undergraduate then you can do those .
+A:	oh no
+B:	then this isn't your - - chore -
+A:	no . it's not it's not irrelevant to it - m . but - - - it's the - academic structure . of . the university that . that  . we're concerned about
+B:	ah oh I see . yes
+A:	in other words . m - - to what extent . can the colleges have independence - -
+B:	oh I thought that you were on this . wu wu aren't you on the same committee as the m - - Dave Cole is on
+> Entailment the university has a specific structure 
+> Entailment math and philosophy aren't the only optional subjects for bachelor's
+> Contradiction Dave Cole isn't on
+> Contradiction B thought A was on the committee
+> Neutral tired
+> Neutral she's tired
+A:	oh no no that's another committee
+B:	oh I thought that that was the yes I see . mhm . the representatives of the faculty board which talked about this m - - - ? int intermingling or interrelationship of .
+A:	m
+B:	- different departments . you're not on
+A:	m
+B:	- that . oh I thought you were
+A:	no no
+> Entailment B believed they were on
+> Entailment A isn't on
+> Contradiction B believed they weren't on
+> Contradiction A is on
+> Neutral on and on
+> Neutral it goes
+B:	h - - - oh no well yours is a different matter yes that's true . I'm sorry I
+A:	m
+B:	- thought that you were on this m -
+A:	no -
+B:	faculty board representative  - whatever you call it .
+A:	no th  it's called . board of the faculty -
+B:	mhm
+> Entailment it's called board of the faculty
+> Entailment B was mistaken
+> Contradiction it's called faculty board representative
+> Contradiction B was correct in the naming
+> Neutral booo says ghost
+> Neutral king dee dee dee
+A:	- you see we we . are members of the faculty of arts of the university -
+B:	yes
+A:	- but . the . faculty of arts . has .  a sort of - supreme soviet . . . which is
+B:	mhm
+A:	- called the board of the faculty
+B:	yes
+A:	and
+B:	you're on that
+> Entailment A's on the arts faculty
+> Entailment above arts faculty is the board
+> Contradiction A's not on the arts faculty
+> Contradiction there is no board above the arts faculty
+> Neutral smash
+> Neutral kart
+A:	no no no . Dave is .
+B:	Dave is on that . ah
+A:	and that's the that's the  . what do you m call it
+B:	that's the gauleiters yes
+A:	well that's the the the  . abus gauleiters
+B:	mhm - and what are you then
+A:	I'm on the academic council
+B:	ah very nice position
+> Entailment A is on the academic council
+> Entailment the gauleiters is the name of it
+> Contradiction A isn't on the council
+> Contradiction the gauleiters is not the name of it
+> Neutral schnee
+> Neutral banana
+A:	to whom the board of the faculty report - -
+B:	good
+A:	m . but . I'm on I'm I'm on the
+B:	you ought to have a bloody great chart up there you know you 1  sort of -
+A:	- (laughs)
+

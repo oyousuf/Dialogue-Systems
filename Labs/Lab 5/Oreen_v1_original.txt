@@ -1,0 +1,343 @@
+# example id: KB0_028802_06.40_22
+# corpus: BNC
+# modification: None
+# show_comment: This is a dialogue from a farm shop. Alan and John are customers and Ida is the shop assistant
+Alan    They want to know what spoken English is like
+
+Unknown <unclear >
+
+Ida     You can tape me by all means, but they probably won't like my voice
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: someone wants to hear English
+> 2: Ida is fine with taping
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: no one wants to hear English
+> 2: Ida is uncomfortable with taping
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: zhe grew to be 100 feet tall
+> 2: angeliki didn't laugh
+Alan    Er, now what do I want?
+
+Alan    Erm, oh half a dozen eggs
+
+Ida     large ones?
+
+Alan    Yes I think so, or,
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: there are large eggs
+> 2: Alan wants half a dozen eggs
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan doesn't want half a dozen eggs
+> 2: Alan doesn't want large eggs
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: lingqing became a racecar
+> 2: siyi ate a dinosaur
+Alan    at least I more often buy medium, I don't really know which one is best
+
+Ida     Well, er, if you poach an egg, those are too big
+
+Alan    Mm, no, let me have those then, cos I do sometimes poach an egg
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan usually buys medium sized eggs
+> 2: large eggs are too big to poach
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: large eggs are too small to poach
+> 2: Alan won't buy medium eggs
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: jenn became the moon
+> 2: oreen made friends with a dolphin
+Ida     Yeah, well, they say that they're too large to poach them with, they come over the top, there we are, thank you.
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: large eggs are too large for poaching
+> 2: large eggs come over the top when poaching
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: large eggs not too big for poaching
+> 2: large eggs don't come over the top when poaching
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: flor rode a pterodactyl into the sun
+> 2: emma met a pirate and sailed the seven seas
+Alan    Er <pause> I want, I want to make a casserole have you got either a neck of lamb or an ox tail or something like that?
+
+Ida     I've got some ox tail, erm neck of lamb Philip have you got one?
+
+Philip  Neck of lamb's off
+
+Alan    Well I'll have an ox tail then <laugh>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan is getting ox tail
+> 2: Alan wants to make a casserole
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Philip has neck of lamb
+> 2: Alan doesn't want to make a casserole
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: after growing to 100 feet, zhe battled a giant to save the world
+> 2: angeliki remained silent; never laughing again
+Ida     That's one thirty for the whole one, is that too much for you?
+
+Alan    No I'll use that I think
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: the total price is one thirty
+> 2: Alan agrees to the price of one thirty
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: the total price isn't one thirty
+> 2: Alan doesn't think one thirty to be too much
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: lingqing went on to star in Cars 5 with Lightning McQueen
+> 2: not full of dinosaur protein, siyi became the heavyweight boxing champion of the world
+Ida     You can freeze it if you don't
+
+Alan    That's what I do
+
+Ida     if you don't want it all <pause>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan will freeze it
+> 2: Alan usually freezes ox tail
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: you can't freeze ox tail
+> 2: Alan never freezes ox tail
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: as jenn is now the moon, she witnessed flor riding into the sun
+> 2: oreen's new dolphin friend told him about a new swedish pirate wreaking havoc
+Ida     did I see Robert with you the other day?
+
+Ida     Was it Robert?
+
+Alan    He was, er <pause>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Ida thinks she saw Robert
+> 2: Alan was with Robert
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Ida didn't see Robert
+> 2: Ida saw someone other than Robert
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: flor reached the sun only to find a collection of western philosphers complimenting each other
+> 2: emma discovered treasure in an underwater cave worth exactly 5 krona
+Ida     Has he got a Volvo? Volvo car?
+
+Alan    Er, well both Robert and David have got Volvos, so
+
+Ida     Oh
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Robert has a Volvo car
+> 2: David has a Volvo car
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Robert does not have a Volvo car
+> 2: David does not have a Volvo car
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: locked in the midst of battle, zhe called upon the moon, jenn, to help him in the fight against the giant
+> 2: angeliki saw zhe's fight and continued her strike against laughing; resilient against the act
+Alan    er, if, if it was, if it was the last few days it was probably David
+
+Ida     Yes, I think it might of been Wednesday
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: It was probably David
+> 2: Alan was with David more recently than with Robert
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: It was probably Robert
+> 2: Alan was with Robert more recently than with David
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: at the red carpet premiere of Cars 5, lingqing got a call that a racecar was needed in the fight between zhe and the giant. a FAST racecar, the FASTEST
+> 2: unimpressed with the world's fighters, siyi looked for a greater challenge in the world
+Alan    Er, yes that was David, Robert hasn't, Robert's coming next weekend, but he hasn't been here for a few weeks
+
+Ida     Yes, I just saw you at the crossroads you see
+
+Alan    Mm
+
+Ida     and I was sort of concentrating
+
+Alan    No
+
+Ida     so I just
+
+Alan    that was David that was with me,
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: It was definitely David with Alan
+> 2: Robert is coming next weekend
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Robert was here very recently
+> 2: It wasn't David with Alan
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: jenn received a plea of help from the 100 feet tall zhe. she sent ocean waves towards their fight to knock the giant down
+> 2: the dolphin, named Daphne, led oreen to where the mysterious new pirate. the dolphin, and not oreen, asked the pirate emma to help with something
+Alan    er, now the next thing is I want something to cook quickly er, er let me have a pound of sausages
+
+Ida     Right, well we've got different types of seasonings
+
+Ida     so I don't know which you erm, whether you would like
+
+Alan    er
+
+Ida     ordinary pork
+
+Alan    mm
+
+Ida     Those have got a leek seasoning, pork and apple, tomato, and herbs
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan wants something that cooks quickly
+> 2: Alan wants sausages
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Ida knows which seasoning Alan likes
+> 2: there aren't different types of seasonings
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: flor decided it was best to not be around the philosphers and get nauseous
+> 2: after collecting her treasure, Pirate Lord Wallero saw a friendly looking dolphin and a man that cannot swim, Daphne and Oreen, racing towards her
+Alan    Goodness what a choice, <laugh>
+
+Alan    <unclear>
+
+Ida     if you like something seasoned they're all quite nice
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: it's a lot of choices for Alan
+> 2: it's unclear what Alan wants so far
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: it's a simple decision for Alan
+> 2: the seasoned sausages don't taste nice
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: with the great ocean waves sent by Jenn's lunar might rapidly approaching, zhe leapt high into the sky to avoid them; the giant fell below the sea
+> 2: angeliki approached the battle site, contemplating whether or not to intervene
+Alan    Yes, er <pause> oh I should think er <pause> let's try the tomato one, I haven't had, I haven't seen sausages with tomato in before
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: he's going to try tomato sausages
+> 2: he's never had tomato sausages before
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: he's going to get the leek seasoning
+> 2: he's going to get the pork and apple seasoning
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: lingqing was speeding down the highway at one billion and one kilometers per hour when she saw siyi, the heavyweight boxing champion of the world, running alongside her - both headed towards the fight between zhe and the giant. jenn, the lunar ally above, sent a message to flor to return home to help in the fight for the survival of the planet. flor ditched the dull philosophers, and as she turned back towards planet Earth, she was lit aflame by the sun transforming into the Phoneix Queen. Back below the ocean floor, Emma saw the falling of the giant, due to jenn's ocean waves, and sent her armada of underwater pirate ships to blast him back above the water. Daphne the dolphin cheered them on, but Oreen didn't as he was busy writing this story.
+> 2: with the giant blown back up above the ocean's water, zhe punched him into the air with all his might. a sound was heard - thunder cracking - it was the sound of siyi throwing lingqing the racecar into the air towards the giant. lingqing made impact on the giant blowing him up into pieces just as the silent one - angeliki - revoked her vow of silence as the earth needed her help. she laughed. she laughed causing a sound wave so great it caused buildings to crumble, and mountains to quack. but it also tore apart the giant's remaining limbs. the giant - without limbs, and still floating in the air - felt warmer and warmer. with the last of his strength he looked up to see a ball of fire blazing towards him. "TJENA!!!!!" roared the Phoenix Queen Flor as she met the giant mid-air and disintegrated what was left of him. --- FIN ---
+Ida     Well they are, they are very nice, half a pound or just a couple?
+
+Alan    Er, half a pound will do, no give me a pound, I'll put them in the freezer and
+
+Ida     Right
+
+Alan    use them as they come <pause dur=7>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Ida thinks the tomato sausages are very nice
+> 2: Alan will freeze the remaining sausages
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan will only have half a pound of sausages
+> 2: Alan will eat all the sausages, not freezing any
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: why did I write that story
+> 2: it was so long
+Ida     <unclear>
+
+Alan    er
+
+Ida     Nasty morning isn't it
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan now has everything he needs
+> 2: Ida doesn't like the morning weather
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan wants something else
+> 2: It's a nice morning
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: Maybe I'll write a sequel
+> 2: But I don't know if I'll have the same passion for it
+Alan    and er, one of these chicken fillets I think please
+
+Ida     Hello
+
+John    Hello
+
+Alan    Morning
+
+John    Morning <pause>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: There are two people in the store
+> 2: the two people said hello and morning
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: there aren't two people in the store
+> 2: the people in the store said nothing
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: perhaps I'm going through writer's block already
+> 2: i wonder if i can write about the dolphin some more
+Ida     Ninety four pence
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan's total is ninety four pence
+> 2: the price of chicken fillet is ninety four pence
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: the price of chicken fillet is 50 pence
+> 2: the price of chicken fillet is 40 pence
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: could make the dolphin have a whole backstory
+> 2: but what would the story even be about
+Alan    I think that's about all I can do so far
+
+Ida     Right, thank you
+
+Ida     Quite blustery <unclear> down the road is it?
+
+Alan    Yes
+
+Ida     three eighty five <pause>
+
+Ida     do you want them in a carrier bag?
+
+Alan    No, I'll put them in this, why use up your carrier bags, anyhow this is an easier way to carry
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan is going down the road
+> 2: Alan's total is three eighty five
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan is going up the road
+> 2: Alan wants a carrier bag
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: maybe the dolphin has a family, husband and kids
+> 2: could be about her adventures being an action dolphin mom
+Ida     It is <pause dur=7>
+
+Ida     How you should carry your shopping they say don't they because you're not having to use <pause>
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Ida agrees with Alan
+> 2: Ida is saying something about carrying shopping??
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Ida disagrees with Alan
+> 2: Ida isn't saying something weird about shopping
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: i'd take inspiration from my mom
+> 2: she's cool
+Alan    That's right
+
+Ida     five, pound coin underneath, ten, lovely
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan agrees with Ida
+> 2: Ida counted Alan's money
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan disagrees with Ida
+> 2: there wasn't a pound coin underneath
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: but idk if people would care about dolphins as the main character
+> 2: maybe kids would like it, but i wanna make high art like that last story about my friends fighting the giant
+Alan    Thank you very much
+
+Ida     Thank you very much
+
+Alan    Take care
+
+Ida     I'll do that
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Alan thanked Ida
+> 2: Alan wishes Ida well
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan didn't think Ida
+> 2: Alan doesn't wish Ida well
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: I think this is the last entry prompt
+> 2: this was fun
+Ida     Working the weekend?
+
+Alan    Well, er only in the evening, but we've got a synod tomorrow so I'll be out all day
+> Please provide two statements that the last speaker would take to be true at this point in the dialogue
+> 1: Ida really wants to know about his weekend
+> 2: Alan will be out all day
+> Please provide two statements that the last speaker would take to not be true at this point in the dialogue
+> 1: Alan isn't working in the evening
+> 2: Ida doesn't care about his weekend
+> Please provide two statements for which there is no evidence that the last speaker would take to be true or false at this point in the dialogue
+> 1: i really can't believe Ida kept this conversation going, wow
+> 2: this is like in real life when someone just won't let you go
+Ida     Well, take care
+
+Alan    right, good bye
